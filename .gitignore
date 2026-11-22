@@ -98,3 +98,5 @@ fabric.properties
 
 # Project exclude paths
 /target/
+# Maven
+target/
